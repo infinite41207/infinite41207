@@ -3,11 +3,11 @@
 <h1 align="center">Senior Web Developer</h1>
 <p align="center">
   <a href="https://github.com/infinite41207">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&width=500&height=50&lines=Senior+Full+stack+Developer;8%2B+years+of+hands+on+experience;Determined+problem+solver+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&width=500&height=50&lines=Senior+Full+stack+Developer;7%2B+years+of+hands+on+experience;Determined+problem+solver+" alt="Typing SVG" />
   </a>
 </p>
   <p>
-With 8+ years of full stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services.
+With 7+ years of full stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services.
   </p>
 </div>
 
