@@ -1,4 +1,4 @@
-<h1 align="center">Senior Web Developer</h1>
+<h1 align="center">Frontend & Backend Web Developer</h1>
 <p align="center">
   <a href="https://github.com/infinite41207">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&center=true&width=500&height=50&lines=Senior+Full+stack+Developer;7%2B+years+of+hands+on+experience;Determined+problem+solver+" alt="Typing SVG" />
