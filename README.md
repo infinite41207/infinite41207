@@ -171,7 +171,6 @@ With 7+ years of full stack web development experience for global businesses, I 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original-wordmark.svg" alt="phpstorm" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
 </p>
 <br />
